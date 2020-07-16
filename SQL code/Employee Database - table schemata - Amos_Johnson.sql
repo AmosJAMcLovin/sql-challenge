@@ -32,5 +32,6 @@ CREATE TABLE salaries(
 
 CREATE TABLE titles(
     title_id VARCHAR,
-    title VARCHAR
+    title VARCHAR,
+    emp_no INT
 );
